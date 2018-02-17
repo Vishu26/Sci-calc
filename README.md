@@ -2,7 +2,7 @@
 
 Scientific calculator
 
-![Alt text](ss.png?raw=true "Matlab")
+![alt text](ss.png)
 
 ### Prerequisites
 
