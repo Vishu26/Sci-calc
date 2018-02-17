@@ -14,6 +14,14 @@ PyQt5   - pip install pyqt5
 ```
 ### Features
 
+```
+1. Instant answers based on current input.
+2. Autocomplete braces.
+3. Ability to move current workspace around.
+4. Ability to create workspaces using the "NEW" button.
+5. High precision calculation.
+```
+
 
 ## Authors
 
